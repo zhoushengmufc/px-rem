@@ -1,6 +1,6 @@
 {
     "name": "px-rem",
-    "version": "1.1.8",
+    "version": "1.1.9",
     "description": "a tool to convert px to rem",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/finance-sh/px-rem.git"
+        "url": "git+https://github.com/zhoushengmufc/px-rem"
     },
     "keywords": [
         "pxtorem",
@@ -18,12 +18,12 @@
     "author": "zhousheng",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/finance-sh/px-rem/issues"
+        "url": "https://github.com/zhoushengmufc/px-rem/issues"
     },
     "bin": {
         "px2rem" : "./bin/index.js"
     },
-    "homepage": "https://github.com/finance-sh/px-rem#readme",
+    "homepage": "https://github.com/zhoushengmufc/px-rem#readme",
     "dependencies": {
         "glob": "~7.1.1",
         "commander": "~2.9.0"
